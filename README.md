@@ -1,0 +1,1 @@
+# rajupadhyaya121-Earthquake_prediction_magnitude_estimation
