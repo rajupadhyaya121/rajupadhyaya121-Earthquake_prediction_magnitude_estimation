@@ -1,1 +1,6 @@
-# rajupadhyaya121-Earthquake_prediction_magnitude_estimation
+
+This project utilized the SOCR Earthquake Dataset to develop predictive models for earthquake events in California, United States, spanning from January 2017 to December 2019. The dataset included key parameters such as earthquake date, location (latitude, longitude), depth, magnitude on the Richter scale, and additional seismic characteristics. The primary objectives were to predict earthquake occurrence and estimate their magnitudes using machine learning techniques.
+
+Multiple machine learning models were employed, including Linear Regression, Support Vector Machine (SVM), Naive Bayes, and Random Forest. These models were trained on historical earthquake data to forecast future seismic events and assess earthquake magnitude based on geographical and seismic attributes. Evaluation metrics such as Mean Squared Error (MSE) and R-squared (R2) scores were used to quantify model performance.
+
+The Random Forest model emerged as the most accurate for magnitude prediction, demonstrating low MSE and high R2 scores, indicating robust predictive capability. Findings from this project underscore the potential of machine learning in earthquake forecasting, disaster preparedness, and risk assessment, crucial for enhancing early warning systems and informing seismic hazard mitigation strategies.
